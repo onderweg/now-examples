@@ -1,6 +1,6 @@
-# Now Examples
-
-[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/zeit)
+# Now v1 Examples
+ 
+This is a fork from the now examples repository, before it contained only examples for v2.
 
 ## Static Websites
 
